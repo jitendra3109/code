@@ -1,9 +1,0 @@
-#INCLUDE<ME>
- 
-   VOID MAIN(VOID){
-       PRINTF("HELLO C AGAIN WHY ?\N");
-    SAYING GOOD BYE
-
-      }
-
-   

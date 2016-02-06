@@ -1,6 +1,0 @@
-Hello 
-git users
-  This is my first file adding git repository and 
-  I am happy to start.
-  As i go further it very interesting.
-   Thanks Lynda.com 
